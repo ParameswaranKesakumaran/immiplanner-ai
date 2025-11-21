@@ -43,7 +43,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onStartAssessment, onS
             🚀 The #1 AI-Powered Immigration Platform
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold text-gray-900 tracking-tight mb-6">
-            Your Journey to <span className="text-red-600">Global Citizenship</span> <br className="hidden md:block"/> clasicc
+            Your Journey to <span className="text-red-600">Global Citizenship</span> <br className="hidden md:block"/> starts here..
           </h1>
           <p className="text-xl text-gray-600 mb-10 max-w-3xl mx-auto leading-relaxed">
             Navigate complex immigration rules with AI. Connect with top-rated consultants. 
